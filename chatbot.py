@@ -2,6 +2,7 @@ import random
 import json
 import re
 import requests
+from tkinter import *
 
 class ChatApplication:
     def __init__(self):
@@ -58,7 +59,7 @@ class ChatApplication:
         self.text_widget.configure(state=NORMAL)
         self.text_widget.insert(END, msg1)
         self.text_widget.configure(state=DISABLED)
-        msg2 = f"{'Chatty'}: {get_response(msg)}\n\n" 
+        msg2 = f"{'Chatty'}: {response(msg)}\n\n" 
         self.text_widget.configure(state=NORMAL)
         self.text_widget.insert(END, msg2)
         self.text_widget.configure(state=DISABLED)
@@ -276,8 +277,8 @@ def chat_bot():
                 print(i['description'], ':', i['excerpt'], '...')
                 print('For more information visit', i['article_url'])
 
-chat_bot()
+# chat_bot()
             
-    # if __name__ == "__main__":
-    #     app = ChatApplication()
-    #     app.run()
+if __name__ == "__main__":
+    app = ChatApplication()
+    app.run()
