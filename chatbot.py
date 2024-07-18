@@ -5,9 +5,9 @@ import requests
 import json
 import re
 
-def response(r):
+def response(q):
     language_code = 'en'
-    search_query = r
+    search_query = q
     number_of_results = 1
     headers = {
     # 'Authorization': 'Bearer YOUR_ACCESS_TOKEN',
