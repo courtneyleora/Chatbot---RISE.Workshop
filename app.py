@@ -1,5 +1,5 @@
 from tkinter import *
-from chat import chat_bot, response
+# from chat import chat_bot, response
 
 
 BG_PINK = '#f2ebf0'
