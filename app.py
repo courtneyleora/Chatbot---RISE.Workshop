@@ -1,5 +1,5 @@
 from tkinter import *
-import chat_bot 
+from chat import chat_bot, response
 
 
 BG_PINK = '#f2ebf0'
@@ -72,3 +72,7 @@ class ChatApplication:
         self.text_widget.insert(END, msg2)
         self.text_widget.configure(state=DISABLED)
         self.text_widget.see(END)
+
+if __name__ == "__main__":
+    app = ChatApplication()
+    app.run()
