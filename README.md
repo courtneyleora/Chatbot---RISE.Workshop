@@ -28,3 +28,6 @@ Before running the chatbot, ensure you have the following:
 2. Install required python libraries 
 3. Run the application: 
     - Start the application by executing the Python script: python chatbot.py
+This command will launch the Tkinter window displaying the chat interface.
+
+
