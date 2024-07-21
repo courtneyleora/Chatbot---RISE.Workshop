@@ -6,11 +6,10 @@ Welcome to the Wikipedia Chatbot! This project workshop was through Georgia stat
 
 ## Features
 
-- **Conversational Responses**: The chatbot can handle greetings, farewells, and expressions of gratitude.
-- **Name Inquiry**: It provides a predefined response to the question "What is your name?".
-- **Wikipedia Integration**: Searches Wikipedia for user queries and returns relevant excerpts and article links.
-- **User-Friendly Interface**: Built with Tkinter, the application features a clean and intuitive chat interface.
-
+- **Interactive GUI**: A clean and user-friendly interface built with Tkinter.
+- **Basic Chatbot Functionality**: Cleo can greet users, respond to farewells, express gratitude, and more.
+- **Wikipedia Integration**: Fetch and display relevant Wikipedia article summaries and links based on user queries.
+- **Message Handling**: Clear distinction between user messages and chatbot responses.
 
 ## Installation
 
@@ -22,3 +21,6 @@ Before running the chatbot, ensure you have the following:
 - The `requests` library for making HTTP requests to the Wikipedia API.
 - `Tk` for building the graphical user interface.
 
+## Running the application
+
+1. *Clone the repository*: 
