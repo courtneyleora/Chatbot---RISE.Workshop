@@ -4,6 +4,18 @@ Welcome to the Wikipedia Chatbot! This project workshop was through Georgia stat
 
 ## Features
 
-- Responds to greetings, farewells, and gratitude.
-- Answers the question "What is your name?".
-- Searches Wikipedia for user queries and returns relevant excerpts and article links.
+- **Conversational Responses**: The chatbot can handle greetings, farewells, and expressions of gratitude.
+- **Name Inquiry**: It provides a predefined response to the question "What is your name?".
+- **Wikipedia Integration**: Searches Wikipedia for user queries and returns relevant excerpts and article links.
+- **User-Friendly Interface**: Built with Tkinter, the application features a clean and intuitive chat interface.
+
+
+## Installation
+
+### Prerequisites
+
+Before running the chatbot, ensure you have the following:
+
+- Python 3.x installed on your machine.
+- The `requests` library for making HTTP requests to the Wikipedia API.
+- `Tk` 
