@@ -14,7 +14,6 @@ Welcome to the Wikipedia Chatbot! This project workshop was through Georgia stat
 ## Installation
 
 ### Prerequisites
-
 Before running the chatbot, ensure you have the following:
 
 - Python 3.x installed on your machine.
@@ -22,12 +21,20 @@ Before running the chatbot, ensure you have the following:
 - `Tk` for building the graphical user interface.
 
 ## Running the application
-
 1. Clone the repository:
     - Navigate into the cloned directory
 2. Install required python libraries 
 3. Run the application: 
     - Start the application by executing the Python script: python chatbot.py
-This command will launch the Tkinter window displaying the chat interface.
+    - This command will launch the Tkinter window displaying the chat interface.
+
+## Usage
+### Interacting with the Chatbot ###
+- **Starting the Chat**: When the application starts, a window will appear with a chat interface. You’ll see a text area where messages are displayed and an input field at the bottom where you can type your messages.
+
+- **Sending Messages**:
+
+    - **Via Enter Key**: Type your message into the input field and press Enter.
+    - **Via Send Button**: Alternatively, you can click the "Send" button to submit your message.
 
 
