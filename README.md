@@ -23,4 +23,8 @@ Before running the chatbot, ensure you have the following:
 
 ## Running the application
 
-1. *Clone the repository*: 
+1. Clone the repository:
+    - Navigate into the cloned directory
+2. Install required python libraries 
+3. Run the application: 
+    - Start the application by executing the Python script: python chatbot.py
