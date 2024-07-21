@@ -37,4 +37,7 @@ Before running the chatbot, ensure you have the following:
     - **Via Enter Key**: Type your message into the input field and press Enter.
     - **Via Send Button**: Alternatively, you can click the "Send" button to submit your message.
 
+## Contributors
+Ashlyn Campbell \https://github.com/ashlynthemitm/Chatbot-Workshop/blob/main/README.md#contributors\
+Aaja Christie
 
