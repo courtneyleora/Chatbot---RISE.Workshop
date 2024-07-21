@@ -38,6 +38,6 @@ Before running the chatbot, ensure you have the following:
     - **Via Send Button**: Alternatively, you can click the "Send" button to submit your message.
 
 ## Contributors
-Ashlyn Campbell (https://github.com/ashlynthemitm/Chatbot-Workshop/blob/main/README.md#contributors)
-Aaja Christie
+[Ashlyn Campbell](https://github.com/ashlynthemitm/Chatbot-Workshop/blob/main/README.md#contributors)
+[Aaja Christie](https://www.linkedin.com/in/aaja-christie-17573657/)
 
