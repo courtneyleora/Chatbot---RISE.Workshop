@@ -37,7 +37,12 @@ Before running the chatbot, ensure you have the following:
     - **Via Enter Key**: Type your message into the input field and press Enter.
     - **Via Send Button**: Alternatively, you can click the "Send" button to submit your message.
 
+## Files
+- chatbot.py: Main script for running the fully integrated Chatbot application.
+- app.py: Original GUI script without additional functionality.
+- ChatBot.ipynb: Original web scraping script without GUI Integration.
+
 ## Contributors
-[Ashlyn Campbell](https://github.com/ashlynthemitm/Chatbot-Workshop/blob/main/README.md#contributors)
-[Aaja Christie](https://www.linkedin.com/in/aaja-christie-17573657/)
+- [Ashlyn Campbell](https://github.com/ashlynthemitm/Chatbot-Workshop/blob/main/README.md#contributors)
+- [Aaja Christie](https://www.linkedin.com/in/aaja-christie-17573657/)
 
